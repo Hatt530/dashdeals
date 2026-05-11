@@ -19,8 +19,8 @@ html, body{
   font-size: 1.1em ! important;
 
 }
-.carousel-inner img{
-  width: 50%;
+.carousel-inner img{/*changes the size of the carousel on page*/
+  width: 80%;
   height: 70%;
 }
 .carousel-caption{
